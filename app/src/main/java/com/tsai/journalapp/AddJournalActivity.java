@@ -106,7 +106,6 @@ public class AddJournalActivity extends AppCompatActivity {
                 mTakePhoto.launch("image/*");
             }
         });
-
     }
 
     private void SaveJournal() {

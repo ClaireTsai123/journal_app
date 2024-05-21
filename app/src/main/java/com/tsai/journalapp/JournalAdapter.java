@@ -63,7 +63,6 @@ public class JournalAdapter extends RecyclerView.Adapter<JournalAdapter.JournalV
 
         public JournalViewHolder(@NonNull View itemView) {
             super(itemView);
-
             title = itemView.findViewById(R.id.journal_title_list);
             thoughts = itemView.findViewById(R.id.journal_thought_list);
             dateAdded = itemView.findViewById(R.id.journal_timestamp_list);
