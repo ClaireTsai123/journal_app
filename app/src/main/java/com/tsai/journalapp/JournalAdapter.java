@@ -13,9 +13,6 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.google.android.gms.common.util.DataUtils;
-
-import org.w3c.dom.Text;
 
 import java.util.List;
 
